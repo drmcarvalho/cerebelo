@@ -21,6 +21,6 @@ A little application launcher
 
 TODO
 
---------------------------------------------
+## Project status
 
-Status of project: WIP.
+WIP
