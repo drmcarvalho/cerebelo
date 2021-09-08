@@ -1,5 +1,5 @@
 # cerebelo
-A little application launcher
+A simple application launcher
 
 ## How to execute
 
