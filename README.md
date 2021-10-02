@@ -21,6 +21,8 @@ A simple application launcher
 
 TODO
 
+- Support for windows
+
 ## Project status
 
 WIP
